@@ -148,6 +148,8 @@
     <string name="show_light_on_zen_title">Блимати під час режиму \"Не турбувати\"</string>
     <!-- Density category -->
     <string name="density_category">Параметри щільності</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Натисніть для додаткової інформації</string>
     <!-- Selinux -->
     <string name="selinux_status">Статус SELinux</string>
     <string name="selinux_status_disabled">Вимкнено</string>

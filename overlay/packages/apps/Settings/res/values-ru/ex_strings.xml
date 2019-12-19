@@ -148,6 +148,8 @@
     <string name="show_light_on_zen_title">Мерцание во время режима \"Не беспокоить\"</string>
     <!-- Density category -->
     <string name="density_category">Настройки плотности</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Нажмите для дополнительной информации</string>
     <!-- Selinux -->
     <string name="selinux_status">Статус SELinux</string>
     <string name="selinux_status_disabled">Отключено</string>
