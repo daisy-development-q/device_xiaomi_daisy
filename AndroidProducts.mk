@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_daisy.mk
+    $(LOCAL_DIR)/reloaded_daisy.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_daisy-eng \
-    aosp_daisy-userdebug \
-    aosp_daisy-user
+    reloaded_daisy-eng \
+    reloaded_daisy-userdebug \
+    reloaded_daisy-user
